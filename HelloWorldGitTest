@@ -1,0 +1,9 @@
+
+
+public class HelloWorldGitTest
+
+public static void  main (String [] args){
+	
+	println("Hello Git World");
+
+}
